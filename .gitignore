@@ -1,0 +1,15 @@
+/.gradle
+/build
+/.idea
+*.iml
+.gradle
+.DS_Store
+
+# Gradle wrapper
+/gradle/wrapper/
+
+# IntelliJ
+out/
+
+# Logs
+**/logs/
